@@ -17,7 +17,7 @@
 
 ### :technologist: About Me :
 
-I am PhD Student in Computational Chemistry for Understading Biological Systems :dna: 
+I am PhD Student in Computational Chemistry applied to Biological Systems :dna: 
 
 - :student: I’m working as Researcher at Universitat Autònoma de Barcelona, Spain. 
 
