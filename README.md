@@ -36,7 +36,10 @@ I am PhD Student in Computational Chemistry :alembic: for Understading Biologica
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-
+  <img src="https://fullforms.com/images/image/Fortran_2838.png" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
+  <img src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/logo/Quantum-Chemistry/Gaussian.png" title="Gaussian"
+  <img src="https://www.ccdc.cam.ac.uk/media/512x512.png" title="GOLD" alt="GOLD" width="40" height="40"/>&nbsp;
+  <img src="https://www.macupdate.com/images/icons512/60881.png" title="Chimera USCF" alt="Chimera USCF" width="40" height="40"/>&nbsp;
 
 
 </div>
