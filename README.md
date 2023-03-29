@@ -12,7 +12,7 @@
 </div>
 </div>
 
-
+---
 
 ### :technologist: About Me :
 
@@ -25,6 +25,8 @@ I am PhD Student in Computational Chemistry :alembic: for Understading Biologica
 - :man_teacher: I also assist on teaching chemistry and computational chemistry at Chemistry Department
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexpsnchz/)
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
