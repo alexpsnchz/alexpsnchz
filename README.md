@@ -21,7 +21,7 @@ I am PhD Student in Computational Chemistry applied to Biological Systems :dna:
 
 - :student: I’m working as Researcher at Universitat Autònoma de Barcelona, Spain. 
 
-- :desktop_computer: My research tries to understand how inflammatory processes and to design new drugs for inflamatory-based diseases. 
+- :desktop_computer: My research tries to understand inflammatory processes and to design new drugs for inflamatory-based diseases. 
 
 - :man_teacher: I also assist on teaching chemistry and computational chemistry at Chemistry Department.
 
